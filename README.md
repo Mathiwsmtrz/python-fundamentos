@@ -9,7 +9,7 @@ Tests files using python
 
 
 ## Env
-```bash
+```sh
 # create
 python3 -m venv [ENV_NAME]
 
@@ -18,6 +18,12 @@ source [ENV_NAME]/bin/activate
 
 # exit
 deactive
+```
+
+## Dependencies
+```sh
+# install
+pip3 install -r [FILE_REQUERIMENTS]
 ```
 
 ## License
